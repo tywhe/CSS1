@@ -23,6 +23,7 @@ h2{
     border-color:green;
     border-width:5px;
     padding:1.4vw;
+    margin-left:20px;
     margin-right:40vw;
     
     
@@ -73,3 +74,4 @@ table th{
     background-color:rgb(189, 188, 188);
 
     padding:1px;}
+
